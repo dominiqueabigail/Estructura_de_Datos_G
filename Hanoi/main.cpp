@@ -1,10 +1,9 @@
 /*///////////////////////////////////////////////////////////////////////////////////////////////
 //  UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
 //
-//  EL PROGRAMA HACE UNA SUMA Y MULTIPLICACION DE VECTORES UTILIZANDO LOS OPERADORES SOBRECARGADOS DE
-//  &= , *
+//  Hanoi
 //
-//  AUTORES: Gustavo Aguas, Carlos Ipiales, Dominique Abigaíl
+//  AUTORES: Gustavo Aguas, Carlos Ipiales, Dominique AbigaÃ­l
 //  FECHA DE CREACION: 15/05/2022
 //  FECHA DE MODIFICACION: 15/05/2022
 //  GRUPO: 2
