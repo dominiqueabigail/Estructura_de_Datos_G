@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Carro">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABQAAQAAAAAAAABEAAAAADAAAgAgAAIAAA=</HashCode>
+      <FileName>Carro.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Factura">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>HQCIQAAAAAAQAAQAQMAACAAEEAABAAHAAAgIgAAARCA=</HashCode>
+      <FileName>Factura.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Facturas">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQQEAAAAABAAAAAAAAAAAAIAAAQAAIAQAEASAA=</HashCode>
+      <FileName>Facturas.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="f" />
+      <Field Name="listaC" />
+      <Field Name="listaF" />
+      <Field Name="listaP" />
+      <Field Name="listaM" />
+      <Field Name="u" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Fichero">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAgAIAAAAAAAAAAAAAAAAAAAIAAAAAACEIAA=</HashCode>
+      <FileName>Fichero.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Imagenes">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAABAAEAAARiAEAACCACAAQMAACAAAAA=</HashCode>
+      <FileName>Imagenes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lista&lt;T&gt;">
+    <Position X="2.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAACEAIAAAAgIAAAAAAACAAkAAgAAAAAAAAACA=</HashCode>
+      <FileName>Lista.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="actual" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Mecanico">
+    <Position X="5.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAACAAAQAAAAAAAAAQABAAABAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Mecanico.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu">
+    <Position X="9.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAIAAAAAIAgAAAAAIAgA4IAJAAAAAAAA=</HashCode>
+      <FileName>Menu.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="f" />
+      <Field Name="i" />
+      <Field Name="users" />
+      <Field Name="u" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Nodo&lt;T&gt;">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAEAAAAAgIAAAAAAAAEACAACCAAAAAABABAQAAAAEA=</HashCode>
+      <FileName>Nodo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Propietario">
+    <Position X="3.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAMAQAAAAQAAAAAAAAAQABAAIBAAABAAAIAAAAEAEA=</HashCode>
+      <FileName>Propietario.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Servicio">
+    <Position X="12" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQAAAIAAAAAQAACAAAAAgAAIAAEBAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Servicio.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Usuario">
+    <Position X="11.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAIgAAIAAAAAAAAAAAEAgAAAIA=</HashCode>
+      <FileName>Usuario.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Usuarios">
+    <Position X="0.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAICAAAAACCAAAAAAAAAAAAAAAAAAAIAAgAAAhA=</HashCode>
+      <FileName>Usuarios.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="listaUsuarios" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Utilidades">
+    <Position X="7.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CGAAAAAQAAAAAIAAgAAAAAAAAAIAAAAEAAAgxAAAAAA=</HashCode>
+      <FileName>Utilidades.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="std::vector&lt;_Ty, _Alloc&gt;" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>A2AAE4EiALJsCEBAAOMIIAASEEUAQBIggQkwAgAFUko=</HashCode>
+      <FileName>C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\vector</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
