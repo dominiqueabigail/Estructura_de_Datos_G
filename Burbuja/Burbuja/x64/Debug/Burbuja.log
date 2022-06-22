@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\carlo\Desktop\Universidad\Estructura de datos\Segunda\Segundo parcial\Burbuja\Burbuja\Burbuja\Burbuja.cpp(12,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\carlo\Desktop\Universidad\Estructura de datos\Segunda\Segundo parcial\Burbuja\Burbuja\Burbuja\Burbuja.cpp(11): message : al compilar la función del miembro clase plantilla "void Burbuja<int>::generarNumeros(tipo [])"
+          with
+          [
+              tipo=int
+          ]
+C:\Users\carlo\Desktop\Universidad\Estructura de datos\Segunda\Segundo parcial\Burbuja\Burbuja\Burbuja\main.cpp(10): message : Vea la referencia a la creación de una instancia de la función plantilla "void Burbuja<int>::generarNumeros(tipo [])" que se está compilando
+          with
+          [
+              tipo=int
+          ]
+C:\Users\carlo\Desktop\Universidad\Estructura de datos\Segunda\Segundo parcial\Burbuja\Burbuja\Burbuja\main.cpp(6): message : Vea la referencia a la creación de una instancia de clase plantilla "Burbuja<int>" que se está compilando
+  Burbuja.vcxproj -> C:\Users\carlo\Desktop\Universidad\Estructura de datos\Segunda\Segundo parcial\Burbuja\Burbuja\x64\Debug\Burbuja.exe
